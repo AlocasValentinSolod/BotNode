@@ -1,0 +1,11 @@
+{
+  "name": "ChatBot",
+  "version": "1.0.0",
+  "description": "Chatbot for telegram",
+  "main": "index.js",
+  "author": "Solod",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
